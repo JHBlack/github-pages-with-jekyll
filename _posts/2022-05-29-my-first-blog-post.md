@@ -1,8 +1,4 @@
-Post #1:
-
-Hello World, this is my first post.
-
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2021-05-29
 ---
